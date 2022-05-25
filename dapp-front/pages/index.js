@@ -381,7 +381,7 @@ export default function Home() {
       </div>
 
       <footer className={styles.footer}>
-        Anu's Collection &#10084;
+        Anu Collection &#10084;
       </footer>
     </div>
   );
